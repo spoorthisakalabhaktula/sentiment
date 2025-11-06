@@ -1,4 +1,4 @@
-sentiment
+sentiment analysis
 =========
 
 Sentiment analysis using machine learning techniques.
